@@ -15,7 +15,7 @@ body{
 #clockCont{
     display: flex;
     font-family: sans-serif;
-    font-size: 20vw;
+    font-size: 15vw;
 }
 #clockCont > h1{
     margin:0 5vw;
