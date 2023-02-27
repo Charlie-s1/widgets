@@ -28,21 +28,22 @@ body{
     z-index: 100;
     color: #ff7369;
     left:1rem;
+    top:50%;
+    transform: translate(0,-50%);
 }
 .progCont{
     border: white solid 3px;
     border-radius: .7rem;
     width:95%;
-    margin:.5rem 0 ;
-    height:10%;
+    margin:.25rem 0 ;
+    height:25%;
     overflow: hidden;
     display:flex;
-    align-items: center;
-    padding:0 .2rem;
+    padding:.25%;
     position: relative;
 }
 .progBar{
-    height:85%;
+    height:100%;
     width:50%;
     background: #fff;
     border-radius: .4rem 0 0rem .4rem;
