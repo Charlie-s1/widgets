@@ -35,11 +35,12 @@ body{
     border: white solid 3px;
     border-radius: .7rem;
     width:95%;
-    margin:.25rem 0 ;
+    margin:.15rem 0 ;
     height:25%;
+    min-height:1.5rem;
     overflow: hidden;
     display:flex;
-    padding:.25%;
+    padding:.75%;
     position: relative;
 }
 .progBar{
